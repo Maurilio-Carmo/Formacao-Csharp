@@ -13,3 +13,18 @@ C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\refin
 C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.pdb
 C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.genruntimeconfig.cache
 C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\ref\Intrducao.dll
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\bin\Debug\net9.0\Intrducao.exe
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\bin\Debug\net9.0\Intrducao.deps.json
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\bin\Debug\net9.0\Intrducao.runtimeconfig.json
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\bin\Debug\net9.0\Intrducao.dll
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\bin\Debug\net9.0\Intrducao.pdb
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.AssemblyInfoInputs.cache
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.AssemblyInfo.cs
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.csproj.CoreCompileInputs.cache
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.sourcelink.json
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.dll
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\refint\Intrducao.dll
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.pdb
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.genruntimeconfig.cache
+c:\Users\WM Suporte - 03\Documents\Utilitários\Codar\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\ref\Intrducao.dll

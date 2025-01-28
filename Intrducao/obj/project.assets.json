@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mauri\\.nuget\\packages\\": {}
+    "C:\\Users\\WM Suporte - 03\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mauri\\Documents\\GitHub\\Formacao_Csharp\\Intrducao\\Intrducao.csproj",
+      "projectUniqueName": "C:\\Users\\WM Suporte - 03\\Documents\\Utilitários\\Codar\\GitHub\\Formacao_Csharp\\Intrducao\\Intrducao.csproj",
       "projectName": "Intrducao",
-      "projectPath": "C:\\Users\\mauri\\Documents\\GitHub\\Formacao_Csharp\\Intrducao\\Intrducao.csproj",
-      "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mauri\\Documents\\GitHub\\Formacao_Csharp\\Intrducao\\obj\\",
+      "projectPath": "C:\\Users\\WM Suporte - 03\\Documents\\Utilitários\\Codar\\GitHub\\Formacao_Csharp\\Intrducao\\Intrducao.csproj",
+      "packagesPath": "C:\\Users\\WM Suporte - 03\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WM Suporte - 03\\Documents\\Utilitários\\Codar\\GitHub\\Formacao_Csharp\\Intrducao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\WM Suporte - 03\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
