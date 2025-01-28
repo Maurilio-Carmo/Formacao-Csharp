@@ -1,0 +1,15 @@
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\bin\Debug\net9.0\Intrducao.exe
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\bin\Debug\net9.0\Intrducao.deps.json
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\bin\Debug\net9.0\Intrducao.runtimeconfig.json
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\bin\Debug\net9.0\Intrducao.dll
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\bin\Debug\net9.0\Intrducao.pdb
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.AssemblyInfoInputs.cache
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.AssemblyInfo.cs
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.sourcelink.json
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.dll
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\refint\Intrducao.dll
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.pdb
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\Intrducao.genruntimeconfig.cache
+C:\Users\mauri\Documents\GitHub\Formacao_Csharp\Intrducao\obj\Debug\net9.0\ref\Intrducao.dll
