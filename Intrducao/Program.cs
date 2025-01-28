@@ -21,8 +21,6 @@ namespace Course {
             Console.WriteLine(x);
             Console.WriteLine(y);
             Console.WriteLine(z);
-            
-            Console.WriteLine(s);
                 Console.WriteLine(p1);
                 Console.WriteLine(p2);
                 Console.WriteLine(p3);
