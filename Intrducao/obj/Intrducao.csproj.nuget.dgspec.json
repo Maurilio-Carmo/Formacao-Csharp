@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\WM Suporte - 03\\Documents\\Utilitários\\Codar\\GitHub\\Formacao_Csharp\\Intrducao\\Intrducao.csproj": {}
+    "C:\\Users\\WM Suporte - 03\\Documents\\Utilitários\\Codar\\GitHub\\Formacao_Csharp\\Intrducao\\Intrducao.csproj": {}
   },
   "projects": {
-    "c:\\Users\\WM Suporte - 03\\Documents\\Utilitários\\Codar\\GitHub\\Formacao_Csharp\\Intrducao\\Intrducao.csproj": {
+    "C:\\Users\\WM Suporte - 03\\Documents\\Utilitários\\Codar\\GitHub\\Formacao_Csharp\\Intrducao\\Intrducao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\WM Suporte - 03\\Documents\\Utilitários\\Codar\\GitHub\\Formacao_Csharp\\Intrducao\\Intrducao.csproj",
+        "projectUniqueName": "C:\\Users\\WM Suporte - 03\\Documents\\Utilitários\\Codar\\GitHub\\Formacao_Csharp\\Intrducao\\Intrducao.csproj",
         "projectName": "Intrducao",
-        "projectPath": "c:\\Users\\WM Suporte - 03\\Documents\\Utilitários\\Codar\\GitHub\\Formacao_Csharp\\Intrducao\\Intrducao.csproj",
+        "projectPath": "C:\\Users\\WM Suporte - 03\\Documents\\Utilitários\\Codar\\GitHub\\Formacao_Csharp\\Intrducao\\Intrducao.csproj",
         "packagesPath": "C:\\Users\\WM Suporte - 03\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\WM Suporte - 03\\Documents\\Utilitários\\Codar\\GitHub\\Formacao_Csharp\\Intrducao\\obj\\",
+        "outputPath": "C:\\Users\\WM Suporte - 03\\Documents\\Utilitários\\Codar\\GitHub\\Formacao_Csharp\\Intrducao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WM Suporte - 03\\AppData\\Roaming\\NuGet\\NuGet.Config"
