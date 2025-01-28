@@ -1,4 +1,4 @@
-# Programação Orientada a Objetos com C#  
+# Formação: Programação Orientada a Objetos com C#  
 
 Bem-vindo(a)! 👋 Este repositório foi criado para organizar e armazenar todas as atividades, projetos e anotações realizadas ao longo do curso **Programação Orientada a Objetos com C#**, ministrado pelo **Prof. Nelio Alves** disponível na Udemy.
 
