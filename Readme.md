@@ -3,7 +3,7 @@
 Bem-vindo(a)! 👋 Este repositório foi criado para organizar e armazenar todas as atividades, projetos e anotações realizadas ao longo do curso **Programação Orientada a Objetos com C#**, ministrado pelo **Prof. Nelio Alves** disponível na Udemy.
 
 ## Sobre o Curso 🎓  
-Estou atualmente matriculado(a) no curso **[Programação Orientada a Objetos com C#](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/?couponCode=KEEPLEARNINGBR)**, que tem como objetivo ensinar os fundamentos e práticas da POO utilizando a linguagem C#. Este curso é ideal tanto para quem está começando quanto para quem deseja consolidar conhecimentos sobre:
+Estou atualmente matriculado(a) no curso **[Programação Orientada a Objetos com C#](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/)**, que tem como objetivo ensinar os fundamentos e práticas da POO utilizando a linguagem C#. Este curso é ideal tanto para quem está começando quanto para quem deseja consolidar conhecimentos sobre:
 
 - 📦 **Classes e Objetos**  
 - 🔒 **Encapsulamento**  
